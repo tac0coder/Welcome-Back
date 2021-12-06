@@ -1,5 +1,7 @@
 body {font-family:'Broadway',"Arial";}
 
-p {font-size: 500px;}
+p {font-size: 50px;}
 
 img {max-width:1000px; max-height:750px;}
+
+canvas {z-index: -1}
